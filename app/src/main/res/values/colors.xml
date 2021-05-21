@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#689F38</color>
+    <color name="textcolor">#E65100</color>
+    <color name="colorfull">#1B76D8</color>
+    <color name="pagecolor">#D8471B</color>
+    <color name="lightcolor">#1BD8A2</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="text">#D81B1B</color>
+    <color name="login">#73D81B</color>
+    <color name="sign">#FFD180</color>
+
+</resources>
